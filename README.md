@@ -8,3 +8,9 @@ Data downloaded from:
 https://www.metoc.navy.mil/jtwc/jtwc.html?north-indian-ocean
 
 Documentation available in the website.
+
+
+IMD data downloaded from:
+https://rsmcnewdelhi.imd.gov.in/report.php?internal_menu=MzM=
+
+Please note that some cleaning was made on the IMD data natively on Excel before preprocessing it using Pandas.
