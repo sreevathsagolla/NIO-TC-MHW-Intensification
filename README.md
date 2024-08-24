@@ -1,11 +1,10 @@
 # Intensification of North Indian Ocean Tropical Cyclones driven by regional Marine Heat Waves
 ---------------------------------------------------------------------------------------------
 
-Data downloaded from:
-
-JTWC: https://www.metoc.navy.mil/jtwc/jtwc.html?north-indian-ocean
-IMD: https://rsmcnewdelhi.imd.gov.in/report.php?internal_menu=MzM=
-IBTRACS: https://www.ncei.noaa.gov/data/international-best-track-archive-for-climate-stewardship-ibtracs/v04r01/access/csv/
+Data downloaded from:<br>
+JTWC: https://www.metoc.navy.mil/jtwc/jtwc.html?north-indian-ocean<br>
+IMD: https://rsmcnewdelhi.imd.gov.in/report.php?internal_menu=MzM=<br>
+IBTRACS: https://www.ncei.noaa.gov/data/international-best-track-archive-for-climate-stewardship-ibtracs/v04r01/access/csv/<br>
 
 preprocessing.ipynb contains initial pre-processing steps to clean the raw data and save it as a CSV in ./processed/
 
