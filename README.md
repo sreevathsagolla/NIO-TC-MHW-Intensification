@@ -83,11 +83,8 @@ The project outputs key visualizations and statistical summaries that highlight 
 
 Contributions are welcome! Please open an issue or submit a pull request for any suggestions or improvements.
 
-## Author and Attribution
+## Author Attribution and Usage
 
-This project and all associated notebooks have been **authored by Sreevathsa Golla** (sg13n23@soton.ac.uk). Any use or reproduction of the content, figures, or analysis presented in this repository must be properly cited. Unauthorized use or distribution without proper attribution is not permitted.
+This project and all associated notebooks has been authored by Sreevathsa Golla (sg13n23@soton.ac.uk) and the MHW data used has been computed by Ligin Joseph. All rights are reserved and it is NOT open source or free. Any use, redistribution or modification of the content, figures, or analysis presented in this repository is prohibited without seeking explicit permissions. If permitted to use, it must be properly cited. Unauthorized use or distribution without proper attribution is not permitted.
 
-
-## License
-
-This project is licensed under the MIT License.
+> **IMPORTANT:** Please note that we definitely plan to change permissions to open (free) use once the project is complete. Right now, this project is very much work in progress. Thanks for your understanding.
