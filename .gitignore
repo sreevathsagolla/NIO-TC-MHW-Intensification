@@ -1,1 +1,2 @@
-mhw_data/
+mhw_data/*.nc
+era5_data/*.nc
